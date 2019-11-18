@@ -14,7 +14,7 @@ High-Level Summary: Malaria is a disease that is estimated to have killed up to 
 ![IMG-6973](https://user-images.githubusercontent.com/56807370/69021171-f50fae00-0984-11ea-857d-83494ee05cda.jpg)
 ![IMG-6974](https://user-images.githubusercontent.com/56807370/69021185-035dca00-0985-11ea-9838-09093eafa0a5.jpg)
 
-#The data
+#The data 
 
 Many great data sources exist that discuss malaria, but based on my initial research, I couldn’t find a singular resource that contained everything I was looking for to tell the story that I’d like to tell. So for this project I’ll be borrowing data from a few different credible resources.
 
