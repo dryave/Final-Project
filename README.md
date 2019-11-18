@@ -10,6 +10,10 @@ High-Level Summary: Malaria is a disease that is estimated to have killed up to 
 5.	Information on costs of programs. Some programs (free village-wide medication campaigns, for instance) are much more expensive than others (bed net distributions at the family level, for instance). However, there aren’t a ton of sources that examine the relationship between cost and efficacy. With a combination of 2, 3, and 4, I will be able to do that.
 6.	A call to action: based on the results shown in 5, I will be able to suggest which interventions get the most bang for their back, to put it colloquially. I would like the audience to leave the presentation encouraged that certain cost-effective interventions are also life-saving and will be willing to call their congressperson to encourage them to support these interventions by increasing the amount of foreign aid appropriate in the next budget.
 
+#Sketches
+![IMG-6973](https://user-images.githubusercontent.com/56807370/69021171-f50fae00-0984-11ea-857d-83494ee05cda.jpg)
+![IMG-6974](https://user-images.githubusercontent.com/56807370/69021185-035dca00-0985-11ea-9838-09093eafa0a5.jpg)
+
 #The data
 
 Many great data sources exist that discuss malaria, but based on my initial research, I couldn’t find a singular resource that contained everything I was looking for to tell the story that I’d like to tell. So for this project I’ll be borrowing data from a few different credible resources.
