@@ -40,4 +40,3 @@ I also need to figure out how much the average reader for this project understan
 
 
 
-age.
