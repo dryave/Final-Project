@@ -1,4 +1,4 @@
-# THE FINAL PRESENTATION CAN BE ACCESSED HERE: https://carnegiemellon.shorthandstories.com/dryavepresentation/index.html
+# THE FINAL PRESENTATION CAN BE ACCESSED [HERE](https://carnegiemellon.shorthandstories.com/dryavepresentation/index.html)
 
 Hello, and welcome to my final presentation GitHub page! Below is Part 3 of my final project. You will also find the Final Project Proposal (Part I) and the Final Project Part II on this GitHub page. I look forward to your feedback!
 
