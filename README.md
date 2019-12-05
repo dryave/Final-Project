@@ -2,6 +2,27 @@
 
 Hello, and welcome to my final presentation GitHub page! Below is Part 3 of my final project. You will also find the Final Project Proposal (Part I) and the Final Project Part II on this GitHub page. I look forward to your feedback!
 
+# Audience
+
+The audience for this presentation is graduate students—particularly those in the Telling Stories with Data Class. I wanted this presentation to be accessible to everyone in the room, helping them understand a complex issue and a few key takeaways. This is a very difficult issue to teach, let alone in one minute! I believe that in my final deliverable, I help an unfamiliar audience learn about what makes malaria unique and what has happened in the realm of malaria treatment and prevention, specifically over the last few decades. I used a persona to describe my target audience (please see Part II for the persona) which helped me pinpoint what I wanted to achieve and how I needed to present the data. 
+
+This presentation would look quite different if I were presenting to the board of the President’s Malaria Initiative or the Gates Foundation. In that case, I would have similar takeaways but told in a much different way. In my final Shorthand presentation, I help ease the audience into the information by teaching them remedial information and building on that as I go along. After graduation, I hope to go into a field where decisions on funding need to be made. I will be able to use what I learned about designing for your audience to help me prove my key points and achieve the call to action, whatever it may be.
+
+With my audience in mind, and through the many iterations of user feedback, I found that I needed to greatly simplify my messages. In my behavioral economics class, we discussed the “curse of knowledge,” where once you know something, it is very hard to understand what it was like to not know that information. I was not surprised that many people did not understand the distinction between a vector-borne and a contagious disease, but I did not realize that some people did not know what a vector-borne disease is. Of course, before I began my malaria prevention work, I didn’t know what it was either. Completing user feedback greatly helped me simplify and tailor my message so that it wasn’t too technical or inaccessible. Because of the frank feedback my users gave me, I believe that my presentation was made better and stronger.
+
+# Overall Summary
+
+My goal for the presentation was to educate graduate students about malaria interventions and ultimately donate to an organization that advocates for and experiments with low-cost, high-effectiveness treatments. In the non-profit space, we often hear that there simply isn’t enough money to do certain things, and this is undoubtedly true. However, there are manners to make change that don’t require significant financial investment—at least, there are ways to effect small change in cost-restrained environments.
+
+I hope that my visualizations help tell the story that I want to tell. Malaria is a disease that we are not able to eradicate yet but we can help prevent and treat. For organizations that don’t have war chests, small incremental change can have large impacts if these changes are implemented well. I hope as well to encourage students to check out the Poverty Action Lab and donate to their very exciting malaria programs currently being researched in sub-Saharan Africa. 
+
+One place I struggled with this assignment was with finding the data I needed. There exist many data sets on malaria, but few that tell this particular story. For my potentially most important viz, a plot of effectiveness versus cost, I had to take key findings from a few different papers and summaries to display the findings on one graph. A clear missing piece of this puzzle is a comprehensive literature review of malaria interventions and their successes or failures. This dearth fits with the current narrative in development work that there is not nearly enough monitoring and evaluation of programs. If we don’t know what is successful, why should we continue to throw money at the problem in that specific way? Nobel Prize laureates Banerjee and Duflo have the same opinion, which is the foundation of the Poverty Action Lab.
+
+If I were to continue this project, I would want to examine other countries and how interventions there have been different or similar. I also would like to take a look at local organizations doing work on the ground. Here, I examined mostly work by the World Health Organization and the United Nations, which is certainly an important part of malaria prevention and treatment but not the entire story. There are wonderful innovators in sub-Saharan Africa who will eventually unlock the key to ending malaria. I hope that one day their stories are told as well.
+
+_______
+Below you will find Parts I and II of my final presentation. Again, please visit https://carnegiemellon.shorthandstories.com/dryavepresentation/index.html to access my final presentation. Thank you!
+
 # Final Project Proposal (Part I)
 
 # Outline
